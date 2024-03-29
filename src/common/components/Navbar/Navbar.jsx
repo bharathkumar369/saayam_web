@@ -48,6 +48,7 @@ function Navbar() {
 				<option value='es'>Spanish</option>
 				<option value='fr'>French</option>
 				<option value='hi'>Hindi</option>
+				<option value='te'>Telugu</option>
 				<option value='zh'>Chineese</option>
 				<option value='ja'>Japanese</option>
 			</select>

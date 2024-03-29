@@ -7,6 +7,7 @@ import frTranslation from './locales/fr.json'; // French translations
 import zhTranslation from './locales/zh.json'; // Chinese translations
 import jaTranslation from './locales/ja.json'; // Japanese translations
 import hiTranslation from './locales/hi.json'; // Hindi translations
+import teTranslation from './locales/te.json'; // Telugu translations
 
 i18n
    .use(initReactI18next)
@@ -32,6 +33,9 @@ i18n
          hi: {
             translation: hiTranslation,
          },
+         te: {
+            translation: teTranslation,
+         }
       },
       interpolation: {
          escapeValue: false,
